@@ -8,7 +8,8 @@
     }
  }
 
-$device = get-pnpdevice -class Display -FriendlyName 'IddSampleDriver Device HDR' -ErrorAction SilentlyContinue
+$device = Get-PnpDevice -Class Display -ErrorAction SilentlyContinue | Where-Object { $_.FriendlyName -eq 'IddSampleDriver Device HDR' -or $_.FriendlyName -eq 'Virtual Display Driver' }
+
 
 if ($device) {
     if ($device.Status -eq 'OK') {
