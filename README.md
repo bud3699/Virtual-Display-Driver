@@ -47,6 +47,7 @@ projects.
 | parsec-vdd                     |         1.5       |   ✅   |     ✅ (8bit)    |   |                                  ✅                                 |    🆗     |           |           |           |           |
 | [IddSampleDriver]              |         1.2       |      |     ✅ (8bit)    |   |                                                                   |           |           |           |           |           |
 | [RustDeskIddDriver]            |         1.2       |      |     ✅ (8bit)    |   |                                                                   |           |           |           |           |           |
+
 ¹ ARM64 Support in Windows 11 24H2 or later may require test signing be enabled.
 
 ## HDR Support Now Available for Windows 11 22H2+ 
