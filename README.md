@@ -67,9 +67,7 @@ remedy this, there is a a few tricks built into windows. So here goes:
 4.  ```pnputil /delete-driver oem139.inf```
 5.  (If you still get multiple displays after uninstall, try to repeat uninstall procedure in safemode.)
 
-
-
-## Removing Certificates (Optional)
+### Removing Certificates (Optional)
 
 To uninstall the root certificate:
 
@@ -80,7 +78,6 @@ To uninstall the root certificate:
 5. In the sidebar, expand `Trusted Publishers` -> `Certificates` folder.
 6. Scroll to the bottom, until you see "Virtual Display Driver". 
 7. Right click "Virtual Display Driver" and hit "Delete". In the warning that appears, choose "Yes".
-
 
 
 ## HDR Support Now Available for Windows 11 22H2+ 
