@@ -14,22 +14,17 @@ This project uses the official Windows Indirect Display Driver combined with the
 
 ## Installation
 
-### Step 1: Download the Installer
+- Step 1: Download the Installer
+   - You can download the insaller directly from the [Releases](https://github.com/VirtualDisplay/Virtual-Display-Driver/releases) page.
 
-You can download the insaller directly from the [Releases](https://github.com/VirtualDisplay/Virtual-Display-Driver/releases) page.
-
-### Step 2: Run the Installer
-
-1. **Windows 10 or Windows 11:**
+- Step 2: Run the Installer
    - Download and run the installer.
    - Follow the on-screen instructions to complete the installation.
 
-### Step 3: Verify the Installation
-
-Check if the Virtual Display Driver is correctly installed by running the following:
-
-- **Device Manager:** Check "Device Manager" under "Display Adapters."
-- **Settings:** Check display settings under system settings and see if the virtual displays show.
+- Step 3: Verify the Installation
+   - Check if the Virtual Display Driver is correctly installed by running the following:
+   - **Device Manager:** Check "Device Manager" under "Display Adapters."
+   - **Settings:** Check display settings under system settings and see if the virtual displays show.
 
 ## 🤔 Comparison with other IDDs
 
@@ -38,7 +33,7 @@ projects.
 
 | Project                        |   Iddcx version   | Signed | SDR | HDR  |                               H-Cursor                               | Tweakable | ARM64 Support | Custom EDID | Floating Point Refresh Rates |
 | :----------------------------- | :---------------: | :----: | :--: | :------------------------------------------------------------------: | :-------: | :-------: | :-------: | :-------: | :-------: |
-| [Virtual-Display-Driver (HDR)] |   1.10 (latest)   |   ✅   |     ✅ (8/10bit)    | ✅ (8/10/12bit)  |                                  ✅                                 |    ✅    |     ✅¹    |    ✅    |    ✅    |
+| [Virtual-Display-Driver (HDR)] |   1.10 (latest)   |   ✅   |     ✅ (8/10bit)    | ✅ (10/12bit)  |                                  ✅                                 |    ✅    |     ✅¹    |    ✅    |    ✅    |
 | [usbmmidd_v2]                  |                   |   ✅   |     ✅ (8bit)    |   |                                                                   |           |           |           |           |           |
 | [virtual-display-rs]           |         1.5       |      |     ✅ (8bit)    |   | [#81](https://github.com/MolotovCherry/virtual-display-rs/issues/81) |    ✅    |           |           |           |           |
 | parsec-vdd                     |         1.5       |   ✅   |     ✅ (8bit)    |   |                                  ✅                                 |    🆗     |           |           |           |           |
