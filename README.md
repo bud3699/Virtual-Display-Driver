@@ -48,19 +48,19 @@ projects.
 
 ## HDR Support Now Available for Windows 11 22H2+ 
 
-### Videos
+### Installation Video
 
 [![thumbnail2023](https://github.com/itsmikethetech/Virtual-Display-Driver/assets/25166211/1a64c390-5d8a-420f-8bb9-4642349fc132)](https://youtu.be/nNWpbRUPkn4 "How to install a virtual display")
 
-[Previous Video: How to install a virtual display](https://youtu.be/byfBWDnToYk "How to install a virtual display")
+## More Videos and Resources
+- Bud3699: How to configure the VDD using the new Companion App
+- [MikeTheTech: How to install a virtual display](https://youtu.be/byfBWDnToYk "How to install a virtual display")
 
 ### Screenshots:
+<img src="https://github.com/itsmikethetech/Virtual-Display-Driver/assets/25166211/02af86f2-b896-4265-9174-b17c9a1aeab7" width="500">
+<img src="https://github.com/itsmikethetech/Virtual-Display-Driver/assets/25166211/5cb8ce08-890f-4bc1-a1a6-34f22e103699" width="500">
 
-![image](https://github.com/itsmikethetech/Virtual-Display-Driver/assets/25166211/0f1dfed6-c9ac-4cb6-92cf-7d9ab2ac0c66)
-
-![image](https://github.com/itsmikethetech/Virtual-Display-Driver/assets/25166211/5cb8ce08-890f-4bc1-a1a6-34f22e103699)
-
-![image](https://github.com/itsmikethetech/Virtual-Display-Driver/assets/25166211/02af86f2-b896-4265-9174-b17c9a1aeab7)
+<img src="https://github.com/itsmikethetech/Virtual-Display-Driver/assets/25166211/0f1dfed6-c9ac-4cb6-92cf-7d9ab2ac0c66">
 
 ## 🤝 Sponsors
 
