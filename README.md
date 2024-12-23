@@ -7,7 +7,7 @@ This project uses the official Windows Indirect Display Driver combined with the
 
 ## Download Stable Version
 
-- [Universal Driver (Windows 10/11)]() - New installer.
+- [Universal Driver (Windows 10/11)]() - New installer and officially Signed driver.
 
 ## EDID Database
 - [EDID Database by Bud3699](https://edid.mikethetech.com/)
