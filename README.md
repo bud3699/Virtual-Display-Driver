@@ -16,23 +16,19 @@ This project uses the official Windows Indirect Display Driver combined with the
 ## Download Beta
 - [Universal Driver - 24.10.27 (Windows 10/11)](https://github.com/itsmikethetech/Virtual-Display-Driver/releases/tag/24.10.27) - Added more plus optimisations
 
-[Edid database by bud (beta only - for custom edid) ](https://edid.mikethetech.com/)
+## EDID Database
+- [EDID Database by Bud3699](https://edid.mikethetech.com/)
 
- 
 ## Installation
 
 ### Release Instructions
 
-1. Download the latest version from the above or the website, and extract the contents to a folder.
-2. Copy the `\IddSampleDriver\` folder and its contents to `C:\IddSampleDriver\` before installing the driver **(important!)**.
-3. Right click and run the *.bat file **as an Administrator** to add the driver certificate as a trusted root certificate.
-4. Don't install the inf. Open device manager, click on any device, then click on the "Action" menu and click "Add Legacy Hardware".
-5. Select "Add hardware from a list (Advanced)" and then select Display adapters.
-6. Click "Have Disk..." and click the "Browse..." button. Navigate to the extracted files and select the inf file.
-7. You are done! Go to display settings to customize the resolution of the additional displays. These displays show up in Sunshine, your Oculus or VR settings, and should be able to be streamed from.
-8. You can enable/disable the display adapter to toggle the monitors.
+1. Download the latest installer from the above links or the [VDD website](https://vdd.mikethetech.com).
+2. Run the installer and allow it through any Windows security prompts.
+3. Accept the terms and follow the installation steps to customize your installation.
+4. Once the installer finishes, the new virtual display(s) will activate.
+5. You can use the included Companion App to configure and troubleshoot the Virtual Display.
 
-**Ps.** Make sure that `options.txt` is accessible for the system at `C:\IddSampleDriver\options.txt` or the installation will fail.
 
  ## 🤔 Comparison with other IDDs
 
@@ -66,14 +62,6 @@ projects.
 
 ![image](https://github.com/itsmikethetech/Virtual-Display-Driver/assets/25166211/02af86f2-b896-4265-9174-b17c9a1aeab7)
 
-## License
-
-MIT and CC0 or Public Domain (for changes I made, please consult Microsoft for their license), choose the least restrictive option.
-
-## Disclaimer:
-
-This software is provided "AS IS" with NO IMPLICIT OR EXPLICIT warranty. It's worth noting that while this software functioned without issues on my system, there is no guarantee that it will not impact your computer. It operates in User Mode, which reduces the likelihood of causing system instability, such as the Blue Screen of Death. However, exercise caution when using this software.
-
 ## 🤝 Sponsors
 
 <table>
@@ -85,23 +73,19 @@ This software is provided "AS IS" with NO IMPLICIT OR EXPLICIT warranty. It's wo
 
 ## Acknowledgements
 
-Shoutout to **[MikeTheTech](https://github.com/itsmikethetech)** Project Boss man, owner and programmer!
-
-Shoutout to **[Bud](https://github.com/bud3699)** and **[zjoasan](https://github.com/zjoasan)** for jumping on the team and helping with not just support, but lots of great new features!
-
-Shoutout to **[Roshkins](https://github.com/roshkins/IddSampleDriver)** for the original repo.
-
-Shoutout to **[Baloukj](https://github.com/baloukj/IddSampleDriver)** for the 8-bit / 10-bit support. (Also, first to push the new Microsoft Driver public!)
-
-Shoutout to **[Anakngtokwa](https://github.com/Anakngtokwa)** for assisting with finding driver sources.
-
-**[Microsoft](https://github.com/microsoft/Windows-driver-samples/tree/master/video/IndirectDisplay)** Indirect Display Driver/Sample (Driver code)
-
-Thanks to **[AKATrevorJay](https://github.com/akatrevorjay/edid-generator)** for the hi-res EDID.
-
-Shoutout to **[LexTrack](https://github.com/lextrack/)** for the MiniScreenRecorder script. 
+- Shoutout to **[MikeTheTech](https://github.com/itsmikethetech)** Project Boss man, owner and programmer!
+- Shoutout to **[Bud](https://github.com/bud3699)** and **[zjoasan](https://github.com/zjoasan)** for jumping on the team and helping with not just support, but lots of great new features!
+- Shoutout to **[Roshkins](https://github.com/roshkins/IddSampleDriver)** for the original repo.
+- Shoutout to **[Baloukj](https://github.com/baloukj/IddSampleDriver)** for the 8-bit / 10-bit support. (Also, first to push the new Microsoft Driver public!)
+- Shoutout to **[Anakngtokwa](https://github.com/Anakngtokwa)** for assisting with finding driver sources.
+- **[Microsoft](https://github.com/microsoft/Windows-driver-samples/tree/master/video/IndirectDisplay)** Indirect Display Driver/Sample (Driver code)
+- Thanks to **[AKATrevorJay](https://github.com/akatrevorjay/edid-generator)** for the hi-res EDID.
+- Shoutout to **[LexTrack](https://github.com/lextrack/)** for the MiniScreenRecorder script. 
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=VirtualDisplay/Virtual-Display-Driver&type=Date)](https://star-history.com/#VirtualDisplay/Virtual-Display-Driver&Date)
 
+## Disclaimer:
+
+This software is provided "AS IS" with NO IMPLICIT OR EXPLICIT warranty. It's worth noting that while this software functioned without issues on my system, there is no guarantee that it will not impact your computer. It operates in User Mode, which reduces the likelihood of causing system instability, such as the Blue Screen of Death. However, exercise caution when using this software.
