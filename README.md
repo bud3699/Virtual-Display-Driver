@@ -14,16 +14,24 @@ This project uses the official Windows Indirect Display Driver combined with the
 
 ## Installation
 
-### Release Instructions
+### Step 1: Download the Installer
 
-1. Download the latest installer from the above links or the [VDD website](https://vdd.mikethetech.com).
-2. Run the installer and allow it through any Windows security prompts.
-3. Accept the terms and follow the installation steps to customize your installation.
-4. Once the installer finishes, the new virtual display(s) will activate.
-5. You can use the included Companion App to configure and troubleshoot the Virtual Display.
+You can download the insaller directly from the [Releases](https://github.com/VirtualDisplay/Virtual-Display-Driver/releases) page.
 
+### Step 2: Run the Installer
 
- ## 🤔 Comparison with other IDDs
+1. **Windows 10 or Windows 11:**
+   - Download and run the installer.
+   - Follow the on-screen instructions to complete the installation.
+
+### Step 3: Verify the Installation
+
+Check if the Virtual Display Driver is correctly installed by running the following:
+
+- **Device Manager:** Check "Device Manager" under "Display Adapters."
+- **Settings:** Check display settings under system settings and see if the virtual displays show.
+
+## 🤔 Comparison with other IDDs
 
 The table below shows a comparison with other popular Indirect Display Driver
 projects.
