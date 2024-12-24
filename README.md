@@ -5,7 +5,7 @@ Unlike physical monitors, this virtual display can support resolutions and refre
 
 ## Download Latest Version
 
-- [Universal Driver (Windows 10/11)](https://github.com/VirtualDisplay/Virtual-Display-Driver/releases) - Check release page for release notes.
+- [Driver Installer (Windows 10/11)](https://github.com/VirtualDisplay/Virtual-Display-Driver/releases) - Check release page for release notes.
 
 ## EDID Database
 - [EDID Database by Bud3699](https://edid.mikethetech.com/)
