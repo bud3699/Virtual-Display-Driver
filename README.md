@@ -12,6 +12,8 @@ This project uses the official Windows Indirect Display Driver combined with the
 ## EDID Database
 - [EDID Database by Bud3699](https://edid.mikethetech.com/)
 
+  You can use this database to load custom edid's into the driver! Or just general edid usage :) 
+
 ## Installation
 
 - Step 1: Download the Installer
