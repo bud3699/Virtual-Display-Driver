@@ -7,7 +7,7 @@ This project uses the official Windows Indirect Display Driver combined with the
 
 ## Download Stable Version
 
-- [Universal Driver (Windows 10/11)]() - New installer and officially signed driver.
+- [Universal Driver (Windows 10/11)]() - Check release page for release notes.
 
 ## EDID Database
 - [EDID Database by Bud3699](https://edid.mikethetech.com/)
@@ -23,7 +23,7 @@ This project uses the official Windows Indirect Display Driver combined with the
    - Download and run the installer.
    - Follow the on-screen instructions to complete the installation.
 
-- Step 3: Verify the Installation
+- Step 3: Verify the Installation (Optional)
    - Check if the Virtual Display Driver is correctly installed by running the following:
    - **Device Manager:** Check "Device Manager" under "Display Adapters."
    - **Settings:** Check display settings under system settings and see if the virtual displays show.
