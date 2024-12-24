@@ -3,9 +3,9 @@ This project creates a _virtual display_ in Windows that functions just like a p
 
 Unlike physical monitors, this virtual display can support resolutions and refresh rates that go beyond standard hardware limitations, offering greater flexibility for advanced setups. Furthermore, custom EDIDs can be used to simulate/emulate existing hardware displays.
 
-## Download Stable Version
+## Download Latest Version
 
-- [Universal Driver (Windows 10/11)]() - Check release page for release notes.
+- [Universal Driver (Windows 10/11)](https://github.com/VirtualDisplay/Virtual-Display-Driver/releases) - Check release page for release notes.
 
 ## EDID Database
 - [EDID Database by Bud3699](https://edid.mikethetech.com/)
