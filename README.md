@@ -28,6 +28,8 @@ This project uses the official Windows Indirect Display Driver combined with the
    - **Device Manager:** Check "Device Manager" under "Display Adapters."
    - **Settings:** Check display settings under system settings and see if the virtual displays show.
 
+Manual installation can be found in the wiki
+
 ## 🤔 Comparison with other IDDs
 
 The table below shows a comparison with other popular Indirect Display Driver
