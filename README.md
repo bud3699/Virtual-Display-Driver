@@ -1,9 +1,7 @@
 # Virtual Display Driver
-This creates a virtual display in Windows that acts and functions just like a real one. It's useful for streaming, virtual reality applications, recording, headless servers, etc. The benefit over a physical display is the ability to adjust resolutions and refresh rates beyond the physical displays capabilities. For example, this would enable the ability to stream a game from your home PC using game streaming software at 240hz at 8K while owning a 60hz 1080p monitor (unrealistic, but explains the abilities well). For servers without displays, this enabled remote desktop and screen streaming to other systems as if there were a display installed. 
+This project is built on Microsoft’s Indirect Display Driver sample and creates a _virtual display_ in Windows that functions just like a physical monitor. It is particularly useful for applications such as **streaming, virtual reality, screen recording, **and **headless servers—systems** that operate without a physical display attached. 
 
-Supports emulating resolutions from **640 x 480** to **7680 x 4320 (8K)**, and refresh rates including **60hz, 75hz, 90hz, 120hz, 144hz, 165hz, 240hz, 480hz,** and **500hz.**
-
-This project uses the official Windows Indirect Display Driver combined with the IddCx class extension driver.
+Unlike physical monitors, this virtual display can support resolutions and refresh rates that go beyond standard hardware limitations, offering greater flexibility for advanced setups. Furthermore, custom EDIDs can be used to simulate/emulate existing hardware displays.
 
 ## Download Stable Version
 
