@@ -41,7 +41,7 @@ projects.
 
 ### Installation Video
 
-[![vidgit](https://github.com/user-attachments/assets/938015e2-419c-4055-86ce-97e0da2e58f8)](https://youtu.be/Oz_cfbfUx0E)
+[![vidgit](https://github.com/user-attachments/assets/4d6e7756-d332-4220-8605-1ac3543b1bd8)](https://youtu.be/Oz_cfbfUx0E)
 
 ## More Videos and Resources
 - 24.12.24 (Stable): MikeTheTech: [How to install the New Virtual Display Driver](https://youtu.be/Oz_cfbfUx0E)
