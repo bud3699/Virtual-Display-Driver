@@ -1,4 +1,4 @@
-# Virtual Display Driver
+▶️▶️▶️# Virtual Display Driver
 This project creates a _virtual display_ in Windows that functions just like a physical monitor. It is particularly useful for applications such as **streaming, virtual reality, screen recording,** and **headless servers—systems** that operate without a physical display attached. 
 
 Unlike physical monitors, this virtual display can support resolutions and refresh rates that go beyond standard hardware limitations, offering greater flexibility for advanced setups. Furthermore, custom EDIDs can be used to simulate/emulate existing hardware displays.
@@ -45,6 +45,7 @@ projects.
 
 ## More Videos and Resources
 - 24.12.24 (Stable): MikeTheTech: [How to install the New Virtual Display Driver](https://youtu.be/Oz_cfbfUx0E)
+- 24.12.24 (Stable): MikeTheTech: [How to manually install the New Virtual Display Driver](https://youtu.be/sM9rNJWssAI)
 - 24.12.24 (Stable): Bud3699: How to configure the VDD using the new Companion App
 - 24.10.27 (Beta): [MikeTheTech: How to install a virtual display](https://youtu.be/byfBWDnToYk "How to install a virtual display")
 
