@@ -33,7 +33,7 @@ Manual installation can be found in the wiki
 The table below shows a comparison with other popular Indirect Display Driver
 projects.
 
-![image](https://github.com/user-attachments/assets/25c277c8-e949-4c1e-8522-a043b771aec9)
+![image](https://github.com/user-attachments/assets/ccc521fa-f1a9-421d-9af7-61ba0b930f83)
 
 ¹ ARM64 Support in Windows 11 24H2 or later may require test signing be enabled.
 
