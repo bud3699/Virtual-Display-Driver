@@ -46,7 +46,7 @@ projects.
 ## More Videos and Resources
 - 24.12.24 (Stable): MikeTheTech: [How to install the New Virtual Display Driver](https://youtu.be/Oz_cfbfUx0E)
 - 24.12.24 (Stable): MikeTheTech: [How to manually install the New Virtual Display Driver](https://youtu.be/sM9rNJWssAI)
-- 24.12.24 (Stable): Bud3699: How to configure the VDD using the new Companion App
+- 24.12.24 (Stable): Bud3699: [How to configure the VDD using the new Companion App](https://youtu.be/p_gfjE_cwjk)
 - 24.10.27 (Beta): [MikeTheTech: How to install a virtual display](https://youtu.be/byfBWDnToYk "How to install a virtual display")
 
 ![Powerpoint](https://github.com/user-attachments/assets/9ac05776-36e1-4ba1-ac52-3f189dbd7730)
