@@ -33,14 +33,7 @@ Manual installation can be found in the wiki
 The table below shows a comparison with other popular Indirect Display Driver
 projects.
 
-| Project                        |   Iddcx version   | Signed | SDR | HDR  |                               H-Cursor                               | Tweakable | ARM64 Support | Custom EDID | Floating Point Refresh Rates |
-| :----------------------------- | :---------------: | :----: | :--: | :------------------------------------------------------------------: | :-------: | :-------: | :-------: | :-------: | :-------: |
-| [Virtual-Display-Driver (HDR)] |   1.10 (latest)   |   ✅   |     ✅ (8/10bit)    | ✅ (10/12bit)  |                                  ✅                                 |    ✅    |     ✅¹    |    ✅    |    ✅    |
-| [usbmmidd_v2]                  |                   |   ✅   |     ✅ (8bit)    |   |                                                                   |           |           |           |           |           |
-| [virtual-display-rs]           |         1.5       |      |     ✅ (8bit)    |   | [#81](https://github.com/MolotovCherry/virtual-display-rs/issues/81) |    ✅    |           |           |           |           |
-| parsec-vdd                     |         1.5       |   ✅   |     ✅ (8bit)    |   |                                  ✅                                 |    🆗     |           |           |           |           |
-| [IddSampleDriver]              |         1.2       |      |     ✅ (8bit)    |   |                                                                   |           |           |           |           |           |
-| [RustDeskIddDriver]            |         1.2       |      |     ✅ (8bit)    |   |                                                                   |           |           |           |           |           |
+![image](https://github.com/user-attachments/assets/25c277c8-e949-4c1e-8522-a043b771aec9)
 
 ¹ ARM64 Support in Windows 11 24H2 or later may require test signing be enabled.
 
