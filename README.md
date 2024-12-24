@@ -1,5 +1,5 @@
 # Virtual Display Driver
-This project is built on Microsoft’s Indirect Display Driver sample and creates a _virtual display_ in Windows that functions just like a physical monitor. It is particularly useful for applications such as **streaming, virtual reality, screen recording, **and **headless servers—systems** that operate without a physical display attached. 
+This project is built on Microsoft’s Indirect Display Driver sample and creates a _virtual display_ in Windows that functions just like a physical monitor. It is particularly useful for applications such as **streaming, virtual reality, screen recording,** and **headless servers—systems** that operate without a physical display attached. 
 
 Unlike physical monitors, this virtual display can support resolutions and refresh rates that go beyond standard hardware limitations, offering greater flexibility for advanced setups. Furthermore, custom EDIDs can be used to simulate/emulate existing hardware displays.
 
