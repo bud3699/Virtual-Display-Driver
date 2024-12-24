@@ -71,7 +71,8 @@ projects.
 ## Acknowledgements
 
 - Shoutout to **[MikeTheTech](https://github.com/itsmikethetech)** Project Boss man, owner and programmer!
-- Shoutout to **[Bud](https://github.com/bud3699)** and **[zjoasan](https://github.com/zjoasan)** for jumping on the team and helping with not just support, but lots of great new features!
+- Shoutout to **[Bud](https://github.com/bud3699)** For a ton of features, companion & installer work
+- Shoutout to **[zjoasan](https://github.com/zjoasan)** For scripts and part of installer
 - Shoutout to **[Roshkins](https://github.com/roshkins/IddSampleDriver)** for the original repo.
 - Shoutout to **[Baloukj](https://github.com/baloukj/IddSampleDriver)** for the 8-bit / 10-bit support. (Also, first to push the new Microsoft Driver public!)
 - Shoutout to **[Anakngtokwa](https://github.com/Anakngtokwa)** for assisting with finding driver sources.
