@@ -16,9 +16,6 @@ Note, Before using the Virtual Display Driver, ensure the following dependencies
 
   You can use this database to load custom edid's into the driver! Or just general edid usage :) 
 
-
-
-
 ## Installation
 
 - Step 1: Download the Installer
