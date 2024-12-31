@@ -7,9 +7,10 @@ Unlike physical monitors, this virtual display can support resolutions and refre
 
 - [Driver Installer (Windows 10/11)](https://github.com/VirtualDisplay/Virtual-Display-Driver/releases) - Check release page for release notes.
 
-Note, Before using the Virtual Display Driver, ensure the following dependencies are installed:
-- **Microsoft Visual C++ Redistributable**  
-  If you encounter the error `vcruntime140.dll not found`, download and install the latest version from the [Microsoft Visual C++ Redistributable page](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
+> [!IMPORTANT]
+> Before using the Virtual Display Driver, ensure the following dependencies are installed:
+> - **Microsoft Visual C++ Redistributable**  
+>   If you encounter the error `vcruntime140.dll not found`, download and install the latest version from the [Microsoft Visual C++ Redistributable page](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
 
 ## EDID Database
 - [EDID Database by Bud3699](https://edid.mikethetech.com/)
