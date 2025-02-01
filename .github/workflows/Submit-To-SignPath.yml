@@ -96,7 +96,7 @@ jobs:
             
       - name: Prepare Setup Repository
         run: |
-          git clone https://${{ secrets.READ_REPO }}@github.com/VirtualDisplay/vdd-innosetupscript.git inno-setup 
+          git clone https://${{ secrets.READ_REPO }}@github.com/VirtualDisplay/Virtual-Driver-Installer.git inno-setup 
 
       - name: Prepare Setup 
         run: |

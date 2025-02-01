@@ -1,1 +1,0 @@
-Note: Some of the files included with installer files may use code from outside sources and as such, would not be covered by the open source license. Only the virtual display driver itself is fully FOSS, while other terms may apply based on the installer packaging method used.
