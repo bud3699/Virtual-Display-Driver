@@ -30,7 +30,7 @@ Unlike traditional monitors, this virtual display supports custom resolutions an
 ## 🛠️ Installation
 
 - Step 1: Download the Installer
-   - You can download the insaller directly from the [Releases](https://github.com/VirtualDisplay/Virtual-Display-Driver/releases) page.
+   - You can download the installer directly from the [Releases](https://github.com/VirtualDisplay/Virtual-Display-Driver/releases) page.
 
 - Step 2: Run the Installer
    - Launch the installer.
