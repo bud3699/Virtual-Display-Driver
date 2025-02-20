@@ -52,9 +52,9 @@ projects.
 
 ¹ ARM64 Support in Windows 11 24H2 or later may require test signing be enabled.
 
-## HDR Support Now Available for Windows 11 23H2+ 
+HDR Support Now Available for Windows 11 23H2+ 
 
-## ▶️ Videos and Tutotorials
+## ▶️ Videos and Tutorials
 
 ### Installation Video
 
