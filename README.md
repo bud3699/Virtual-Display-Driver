@@ -1,29 +1,39 @@
-# Virtual Display Driver
-This project creates a _virtual display_ in Windows that functions just like a physical monitor. It is particularly useful for applications such as **streaming, virtual reality, screen recording,** and **headless servers—systems** that operate without a physical display attached. 
+# 🛠️ Virtual Display Driver Development Team
 
-Unlike physical monitors, this virtual display can support resolutions and refresh rates that go beyond standard hardware limitations, offering greater flexibility for advanced setups. Furthermore, custom EDIDs can be used to simulate/emulate existing hardware displays.
+| 👤 Developer          | 🏷️ Role                            | 💖 Support Us                                                                                                         |
+| --------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **[MikeTheTech](https://github.com/itsmikethetech)** | Project Manager, Programmer | [Patreon](https://www.patreon.com/mikethetech) :gem: / [GitHub Sponsors](https://github.com/sponsors/itsmikethetech/) 💖  |
+| **[Bud3699](https://github.com/bud3699)**     | Lead Programmer             | [Buy Me a Beer](https://buymeacoffee.com/bud3699) :beer:                                                                 |
+| **[Jocke](https://github.com/zjoasan)**       | Programmer, Concept Design  | [GitHub Sponsors ](https://github.com/sponsors/zjoasan) 💖                                                             |
 
-## Download Latest Version
+:bulb: *We appreciate your support—every contribution helps us keep building amazing experiences!*
 
-- [Driver Installer (Windows 10/11)](https://github.com/VirtualDisplay/Virtual-Display-Driver/releases) - Check release page for release notes.
+# <img src="https://github.com/user-attachments/assets/22ff37ba-a8ea-4b65-b7b2-e7fcb09d858b" height="32" width="32"></img> Virtual Display Driver
+This project creates a _virtual monitor_ in Windows that functions just like a physical display. It is particularly useful for applications such as **streaming, virtual reality, screen recording,** and **headless servers—systems** that operate without a physical display attached. 
+
+Unlike traditional monitors, this virtual display supports custom resolutions and refresh rates beyond hardware limitations—offering greater flexibility for advanced setups. You can also use custom EDIDs to simulate or emulate existing hardware displays.
+
+## ⬇️ Download Latest Version
+
+- [Driver Installer (Windows 10/11)](https://github.com/VirtualDisplay/Virtual-Display-Driver/releases) - Check the [Releases](https://github.com/VirtualDisplay/Virtual-Display-Driver/releases) page for the latest version and release notes.
 
 > [!IMPORTANT]
 > Before using the Virtual Display Driver, ensure the following dependencies are installed:
 > - **Microsoft Visual C++ Redistributable**  
 >   If you encounter the error `vcruntime140.dll not found`, download and install the latest version from the [Microsoft Visual C++ Redistributable page](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
 
-## EDID Database
+## 🖥️ EDID Database
 - [EDID Database by Bud3699](https://edid.mikethetech.com/)
 
   You can use this database to load custom edid's into the driver! Or just general edid usage :) 
 
-## Installation
+## 🛠️ Installation
 
 - Step 1: Download the Installer
    - You can download the insaller directly from the [Releases](https://github.com/VirtualDisplay/Virtual-Display-Driver/releases) page.
 
 - Step 2: Run the Installer
-   - Download and run the installer.
+   - Launch the installer.
    - Follow the on-screen instructions to complete the installation.
 
 - Step 3: Verify the Installation (Optional)
@@ -43,6 +53,8 @@ projects.
 ¹ ARM64 Support in Windows 11 24H2 or later may require test signing be enabled.
 
 ## HDR Support Now Available for Windows 11 23H2+ 
+
+## ▶️ Videos and Tutotorials
 
 ### Installation Video
 
@@ -67,9 +79,9 @@ projects.
 
 ## Developers
 
-- Shoutout to **[MikeTheTech](https://github.com/itsmikethetech)** Project Boss man, owner and programmer!
-- Shoutout to **[Bud](https://github.com/bud3699)** For a ton of features, companion & installer work
-- Shoutout to **[zjoasan](https://github.com/zjoasan)** For scripts and part of installer
+- Shoutout to **[MikeTheTech](https://github.com/itsmikethetech)** Project Manager, Owner, and Programmer!
+- Shoutout to **[Bud](https://github.com/bud3699)** Lead Programmer and author of a ton of features, the companion & installer work.
+- Shoutout to **[zjoasan](https://github.com/zjoasan)** Programmer. For scripts, EDID integration, and parts of installer.
 
 ## Acknowledgements
 
