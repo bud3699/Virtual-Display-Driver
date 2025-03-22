@@ -93,5 +93,7 @@
 		<!--Enable this to prevent manufacturer spoofing when using custom edid. Please only do so if you need to!-->
 		<EdidCeaOverride>false</EdidCeaOverride>
 		<!--Enable this to override or add hard coded cea-extension block to custom Edid support allowing you to enable HDR-->
+		<parse_edid_res>false</parse_edid_res>
+		<!-- Set to true to overwrite all resolutions from settings-xml with ones parsed from user_edid.bin -->
 	</edid>
 </vdd_settings>
